@@ -11,6 +11,9 @@ void processData(int data[]) {
   // new process algorithm
   //fix little bug
   //finish
+  // new process algorithm 2
+	//uytititoitout
+	//uihikhkhkk
 }
 
 void showData(int data[]) {
