@@ -8,8 +8,7 @@ int *fetchData() {
 }
 
 void processData(int data[]) {
-  // process data...
-  // improve process algorithm
+  // new process algorithm 2
 }
 
 void showData(int data[]) {
