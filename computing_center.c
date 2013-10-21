@@ -10,6 +10,7 @@ int *fetchData() {
 void processData(int data[]) {
   // new process algorithm 2
 	//uytititoitout
+	//uihikhkhkk
 }
 
 void showData(int data[]) {
