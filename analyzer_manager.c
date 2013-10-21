@@ -8,6 +8,8 @@ int main()
    for(int i = 0;i<3;i++)
      ricky[i] = 9527;
    
+   ricky[0]++;
+
    delete  [] ricky; 
    
    return 0;
