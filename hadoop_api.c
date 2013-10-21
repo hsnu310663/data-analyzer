@@ -24,3 +24,7 @@ void showData2(int data[]) {
 void showData3(int data[]) {
   // print data...
 }
+
+void showData4(int data[]) {
+  // print data...
+}
