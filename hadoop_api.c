@@ -20,3 +20,7 @@ void showData(int data[]) {
 void showData2(int data[]) {
   // print data...
 }
+
+void showData3(int data[]) {
+  // print data...
+}
